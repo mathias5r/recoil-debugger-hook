@@ -1,0 +1,14 @@
+{
+  "name": "recoil-debugger-hook",
+  "version": "1.0.2",
+  "description": "hook for recoil debugger",
+  "main": "index.js",
+  "author": "Mathias Silva da Rosa",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0",
+    "socket.io-client": "*",
+    "recoil": ">=0.5.0"
+  }
+}
